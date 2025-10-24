@@ -1,0 +1,24 @@
+{
+  "characters": [
+    {
+      "id": "imas.cg.shibuya_rin",
+      "name": "渋谷凛",
+      "name_prompt": "shibuya rin",
+      "series": "idolmaster cinderella girls",
+      "tags": [
+        "imas",
+        "cg"
+      ]
+    },
+    {
+      "id": "imas.cg.honda mio",
+      "name": "本田未央",
+      "name_prompt": "honda mio",
+      "series": "idolmaster cinderella girls",
+      "tags": [
+        "imas",
+        "cg"
+      ]
+    }
+  ]
+}

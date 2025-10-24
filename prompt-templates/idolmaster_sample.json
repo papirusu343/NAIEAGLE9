@@ -1,0 +1,221 @@
+{
+  "series": "アイドルマスター",
+  "groups": [
+    {
+      "member_count": 2,
+      "common": {
+        "location": [
+          "stage",
+          "concert hall",
+          "live venue",
+          "studio"
+        ],
+        "time": [
+          "evening",
+          "night"
+        ],
+        "atmosphere": [
+          "energetic",
+          "glamorous",
+          "exciting"
+        ],
+        "num": [
+          "1girl",
+          "2girls",
+          "3girls"
+        ]
+      },
+      "group_unique": {
+        "member01": {
+          "name": [
+            "haruka amami",
+            "chihaya kisaragi",
+            "yukiho hagiwara"
+          ],
+          "emotion": [
+            "smile",
+            "happy",
+            "energetic"
+          ],
+          "pose": [
+            "singing",
+            "dancing",
+            "waving"
+          ],
+          "outfit": [
+            "stage costume",
+            "idol dress",
+            "performance outfit"
+          ]
+        },
+        "member02": {
+          "name": [
+            "miki hoshii",
+            "takane shijou",
+            "azusa miura"
+          ],
+          "emotion": [
+            "confident",
+            "cool",
+            "elegant"
+          ],
+          "pose": [
+            "posing",
+            "graceful stance",
+            "microphone holding"
+          ],
+          "outfit": [
+            "glamorous dress",
+            "stage outfit",
+            "idol costume"
+          ]
+        },
+        "member03": {
+          "name": [
+            "yayoi takatsuki",
+            "iori minase",
+            "ami futami"
+          ],
+          "emotion": [
+            "cheerful",
+            "determined",
+            "playful"
+          ],
+          "pose": [
+            "jumping",
+            "peace sign",
+            "cute pose"
+          ],
+          "outfit": [
+            "colorful costume",
+            "cute dress",
+            "idol uniform"
+          ]
+        }
+      },
+      "member_common": {
+        "quality": [
+          "masterpiece",
+          "best quality",
+          "high resolution"
+        ],
+        "style": [
+          "anime",
+          "illustration",
+          "detailed"
+        ],
+        "lighting": [
+          "stage lighting",
+          "spotlight",
+          "colorful lights"
+        ]
+      }
+    },
+    {
+      "member_count": 3,
+      "common": {
+        "location": [
+          "school",
+          "classroom",
+          "hallway",
+          "rooftop"
+        ],
+        "time": [
+          "daytime",
+          "afternoon",
+          "after school"
+        ],
+        "atmosphere": [
+          "peaceful",
+          "everyday",
+          "school life"
+        ]
+      },
+      "group_unique": {
+        "member01": {
+          "name": [
+            "kotori minami",
+            "honoka kousaka",
+            "umi sonoda"
+          ],
+          "emotion": [
+            "gentle",
+            "kind",
+            "sweet"
+          ],
+          "pose": [
+            "sitting",
+            "reading",
+            "studying"
+          ],
+          "outfit": [
+            "school uniform",
+            "casual clothes",
+            "summer uniform"
+          ]
+        },
+        "member02": {
+          "name": [
+            "rin hoshizora",
+            "hanayo koizumi",
+            "maki nishikino"
+          ],
+          "emotion": [
+            "energetic",
+            "shy",
+            "cool"
+          ],
+          "pose": [
+            "running",
+            "hiding",
+            "arms crossed"
+          ],
+          "outfit": [
+            "gym clothes",
+            "casual wear",
+            "school uniform"
+          ]
+        },
+        "member03": {
+          "name": [
+            "nozomi tojo",
+            "eli ayase",
+            "nico yazawa"
+          ],
+          "emotion": [
+            "mysterious",
+            "serious",
+            "confident"
+          ],
+          "pose": [
+            "standing",
+            "leadership pose",
+            "idol pose"
+          ],
+          "outfit": [
+            "student council outfit",
+            "elegant clothes",
+            "idol costume"
+          ]
+        }
+      },
+      "member_common": {
+        "quality": [
+          "high quality",
+          "detailed",
+          "well drawn"
+        ],
+        "style": [
+          "anime style",
+          "school anime",
+          "slice of life"
+        ],
+        "lighting": [
+          "natural lighting",
+          "soft light",
+          "classroom lighting"
+        ]
+      }
+    }
+  ]
+}

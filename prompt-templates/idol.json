@@ -1,0 +1,400 @@
+{
+  "series": "デレマス",
+  "groups": [
+    {
+      "member_count": 1,
+      "common": {
+        "num": "solo, 1girl"
+      },
+      "group_unique": {
+        "member01": {
+          "name": "shibuya rin, idolmaster cinderella girls"
+        },
+        "member02": {
+          "name": "shimamura uzuki, idolmaster cinderella girls"
+        },
+        "member03": {
+          "name": "honda mio, idolmaster cinderella girls"
+        },
+        "member04": {
+          "name": "morikubo nono, idolmaster cinderella girls"
+        },
+        "member05": {
+          "name": "shirasaka koume, idolmaster cinderella girls"
+        },
+        "member06": {
+          "name": "hoshi syoko, idolmaster cinderella girls"
+        },
+        "member07": {
+          "name": "koshimizu sachiko, idolmaster cinderella girls"
+        },
+        "member08": {
+          "name": "matsuo chizuru, idolmaster cinderella girls"
+        },
+        "member09": {
+          "name": "seki hiromi, idolmaster cinderella girls"
+        },
+        "member10": {
+          "name": "shiragiku hotaru, idolmaster cinderella girls"
+        },
+        "member11": {
+          "name": "takagaki kaede, idolmaster cinderella girls"
+        },
+        "member12": {
+          "name": "kanzaki ranko, idolmaster cinderella girls"
+        },
+        "member13": {
+          "name": "ninomiya asuka, idolmaster cinderella girls"
+        },
+        "member14": {
+          "name": "hino akane (idolmaster), idolmaster cinderella girls"
+        },
+        "member15": {
+          "name": "layla (idolmaster), idolmaster cinderella girls"
+        },
+        "member16": {
+          "name": "yuuki haru, idolmaster cinderella girls"
+        },
+        "member17": {
+          "name": "saejima kiyomi, idolmaster cinderella girls"
+        },
+        "member18": {
+          "name": "kohinata miho, idolmaster cinderella girls"
+        },
+        "member19": {
+          "name": "miyamoto frederica, idolmaster cinderella girls"
+        },
+        "member20": {
+          "name": "ichinose shiki, idolmaster cinderella girls"
+        },
+        "member21": {
+          "name": "shiomi syuko, idolmaster cinderella girls"
+        },
+        "member22": {
+          "name": "hayami kanade, idolmaster cinderella girls"
+        },
+        "member23": {
+          "name": "jougasaki mika, idolmaster cinderella girls"
+        },
+        "member24": {
+          "name": "jougasaki rika, idolmaster cinderella girls"
+        },
+        "member25": {
+          "name": "sajo yukimi, idolmaster cinderella girls"
+        },
+        "member26": {
+          "name": "maekawa miku, idolmaster cinderella girls"
+        },
+        "member27": {
+          "name": "matoba risa, idolmaster cinderella girls"
+        },
+        "member28": {
+          "name": "shirayuki chiyo, idolmaster cinderella girls"
+        },
+        "member29": {
+          "name": "ohnuma kurumi, idolmaster cinderella girls"
+        },
+        "member30": {
+          "name": "munakata atsumi, idolmaster cinderella girls"
+        },
+        "member31": {
+          "name": "futaba anzu, idolmaster cinderella girls"
+        },
+        "member32": {
+          "name": "ogata chieri, matsuo idolmaster cinderella girls"
+        },
+        "member33": {
+          "name": "mary cochran, idolmaster cinderella girls"
+        },
+        "member34": {
+          "name": "ichihara nina, idolmaster cinderella girls"
+        },
+        "member35": {
+          "name": "ryuuzaki kaoru, idolmaster cinderella girls"
+        },
+        "member36": {
+          "name": "namba emi, idolmaster cinderella girls"
+        },
+        "member37": {
+          "name": "wakiyama tamami, idolmaster cinderella girls"
+        },
+        "member38": {
+          "name": "domyoji karin, idolmaster cinderella girls"
+        },
+        "member39": {
+          "name": "hamaguchi ayame, idolmaster cinderella girls"
+        },
+        "member40": {
+          "name": "murakami tomoe, idolmaster cinderella girls"
+        },
+        "member41": {
+          "name": "tachibana arisu, idolmaster cinderella girls"
+        },
+        "member42": {
+          "name": "sakuma mayu, idolmaster cinderella girls"
+        },
+        "member43": {
+          "name": "anastasia (idolmaster), idolmaster cinderella girls"
+        },
+        "member44": {
+          "name": "fukuyama mai, idolmaster cinderella girls"
+        },
+        "member45": {
+          "name": "tada riina, idolmaster cinderella girls"
+        },
+        "member46": {
+          "name": "otokura yuuki, idolmaster cinderella girls"
+        },
+        "member47": {
+          "name": "hori yuko, idolmaster cinderella girls"
+        },
+        "member48": {
+          "name": "oikawa shizuku, idolmaster cinderella girls"
+        },
+        "member49": {
+          "name": "mukai takumi, idolmaster cinderella girls"
+        },
+        "member50": {
+          "name": "ohara michiru, idolmaster cinderella girls"
+        },
+        "member51": {
+          "name": "shiina noriko, idolmaster cinderella girls"
+        },
+        "member52": {
+          "name": "nakano yuka, idolmaster cinderella girls"
+        },
+        "member53": {
+          "name": "kobayakawa sae, idolmaster cinderella girls"
+        },
+        "member54": {
+          "name": "nanjo hikaru, idolmaster cinderella girls"
+        },
+        "member55": {
+          "name": "koseki reina, idolmaster cinderella girls"
+        },
+        "member56": {
+          "name": "miyoshi sana, idolmaster cinderella girls"
+        },
+        "member57": {
+          "name": "kamiya nao, idolmaster cinderella girls"
+        },
+        "member58": {
+          "name": "abe nana, idolmaster cinderella girls"
+        },
+        "member59": {
+          "name": "asari nanami, idolmaster cinderella girls"
+        },
+        "member60": {
+          "name": "yorita yoshino, idolmaster cinderella girls"
+        },
+        "member61": {
+          "name": "akagi miria, idolmaster cinderella girls"
+        },
+        "member62": {
+          "name": "yumemi riamu, idolmaster cinderella girls"
+        },
+        "member63": {
+          "name": "manabe itsuki, idolmaster cinderella girls"
+        },
+        "member64": {
+          "name": "saito yoko, idolmaster cinderella girls"
+        },
+        "member65": {
+          "name": "hiiragi shino, idolmaster cinderella girls"
+        },
+        "member66": {
+          "name": "shinohara rei, idolmaster cinderella girls"
+        },
+        "member67": {
+          "name": "togo ai, idolmaster cinderella girls"
+        },
+        "member68": {
+          "name": "yanase miyuki, idolmaster cinderella girls"
+        },
+        "member69": {
+          "name": "yao fueifuei, idolmaster cinderella girls"
+        },
+        "member70": {
+          "name": "sugisaka umi, idolmaster cinderella girls"
+        },
+        "member71": {
+          "name": "fujii tomo, idolmaster cinderella girls"
+        },
+        "member72": {
+          "name": "yaguchi miu, idolmaster cinderella girls"
+        },
+        "member73": {
+          "name": "takamori aiko, idolmaster cinderella girls"
+        },
+        "member74": {
+          "name": "nishijima kai, idolmaster cinderella girls"
+        },
+        "member75": {
+          "name": "katagiri sanae, idolmaster cinderella girls"
+        },
+        "member76": {
+          "name": "sato shin, idolmaster cinderella girls"
+        },
+        "member77": {
+          "name": "himekawa yuki, idolmaster cinderella girls"
+        },
+        "member82": {
+          "name": "araki hina, idolmaster cinderella girls"
+        },
+        "member78": {
+          "name": "sagisawa fumika, idolmaster cinderella girls"
+        },
+        "member95": {
+          "name": "hayasaka mirei, idolmaster cinderella girls"
+        },
+        "member83": {
+          "name": "futami ami, idolmaster (classic)"
+        },
+        "member84": {
+          "name": "futami mami, idolmaster (classic)"
+        },
+        "member85": {
+          "name": "takatsuki yayoi, idolmaster (classic)"
+        },
+        "member86": {
+          "name": "kikuchi makoto, idolmaster (classic)"
+        },
+        "member79": {
+          "name": "serizawa asahi, idolmaster shiny colors"
+        },
+        "member80": {
+          "name": "nanakusa nichika, idolmaster shiny colors"
+        },
+        "member81": {
+          "name": "aketa mikoto, idolmaster shiny colors"
+        },
+        "member87": {
+          "name": "tanaka mamimi, idolmaster shiny colors"
+        },
+        "member88": {
+          "name": "yukoku kiriko, idolmaster shiny colors"
+        },
+        "member89": {
+          "name": "sonoda chiyoko, idolmaster shiny colors"
+        },
+        "member90": {
+          "name": "saijo juri, idolmaster shiny colors"
+        },
+        "member91": {
+          "name": "morino rinze, idolmaster shiny colors"
+        },
+        "member92": {
+          "name": "komiya kaho, idolmaster shiny colors"
+        },
+        "member93": {
+          "name": "izumi mei, idolmaster shiny colors"
+        },
+        "member94": {
+          "name": "mayuzumi fuyuko, idolmaster shiny colors"
+        },
+        "member96": {
+          "name": "cathy graham, idolmaster cinderella girls"
+        },
+        "member97": {
+          "name": "clarice (idolmaster), idolmaster cinderella girls"
+        },
+        "member98": {
+          "name": "totoki airi, idolmaster cinderella girls"
+        },
+        "member99": {
+          "name": "natalia (idolmaster), idolmaster cinderella girls"
+        }
+      },
+      "member_common": {
+        "sex": "girl",
+        "pose": [
+          "standing, __emo__",
+          "sitting, __emo__",
+          "lying, __emo__",
+          "lying, sleeping{, pajamas|}",
+          "grabbing own brests, breasts press, __emo__",
+          "breasts squeezed together, breasts press, __emo__",
+          "breast lift, too heavy breasts, __emo__",
+          "adjusting clothes",
+          "posing",
+          "dancing",
+          "1.5::excessive lactation, lactation through clothes::, clenched teeth, rolling eyes, orgasm, covered nipples",
+          "running",
+          "hot"
+        ],
+        "body": [
+          "1.5::bouncing breasts, unaligned breasts, skindentation::, cleavage, 1.5::oppai loli, disproportionate gigantic breasts, excessive bursing breasts, excessive overflowing breasts, alternate breast size, undersized clothes, excessive inflated breasts, inconvenient breasts, overflowing breasts, bursting breasts, deep skin::",
+          "1.5::disproportionate thick calves, excessive thick calves, disproportionate thick legs, disproportionate thick legs, skindentation, undersized clothes, deep skin::",
+          "1.0::disproportionate huge ass, excessive huge ass, skindentation::",
+          "1.5::bouncing breasts, unaligned breasts, skindentation::, cleavage, 1.5::oppai loli, disproportionate gigantic breasts, excessive bursing breasts, excessive overflowing breasts, alternate breast size, undersized clothes, excessive inflated breasts, inconvenient breasts, overflowing breasts, bursting breasts, deep skin, disproportionate thick calves, excessive thick calves, disproportionate thick legs, disproportionate thick legs::",
+          "1.5::bouncing breasts, unaligned breasts, skindentation::, cleavage, 1.5::oppai loli, disproportionate gigantic breasts, excessive bursing breasts, excessive overflowing breasts, alternate breast size, undersized clothes, excessive inflated breasts, inconvenient breasts, overflowing breasts, bursting breasts{, deep skin|}::",
+          "1.5::oppai loli, disproportionate gigantic breasts, alternate breast size, undersized clothes, inconvenient breasts{, skindentation|}{, undersized clothes|}{, deep skin|}{, tight clothes|}{, taut clothes|}{, impossible clothes|}{, deep skin|}{, bouncing breasts, unaligned breasts|}::",
+          "1.5::disproportionate thick calves, excessive thick calves, disproportionate thick legs, disproportionate thick legs{, skindentation|}{, undersized clothes|}{, deep skin|}{, tight clothes|}{, taut clothes|}{, impossible clothes|}::",
+          "1.5::disproportionate huge ass, excessive huge ass, skindentation{, undersized clothes|}{, taut clothes|}{, tight clothes|}{, impossible clothes|}{, deep skin|}::",
+          "1.5::bouncing breasts, unaligned breasts, skindentation::, cleavage, 1.5::oppai loli, disproportionate gigantic breasts, excessive bursing breasts, excessive overflowing breasts, alternate breast size, undersized clothes, excessive inflated breasts, inconvenient breasts, overflowing breasts, bursting breasts{, deep skin|}, disproportionate thick calves, excessive thick calves, disproportionate thick legs, disproportionate thick legs::",
+          "1.5::oppai loli, loli body with large breasts{, undersized clothes|}{, tight clothes|}{, taut clothes|}{, impossible clothes|}::"
+        ],
+        "body2": [
+          "1.5::oppai loli, disproportionate gigantic breasts, alternate breast size, undersized clothes, inconvenient breasts{, skindentation|}{, undersized clothes|}{, deep skin|}{, tight clothes|}{, taut clothes|}{, impossible clothes|}{, deep skin||}{, bouncing breasts, unaligned breasts|}{, torn clothes|||}::",
+          "1.5::disproportionate thick calves, excessive thick calves, disproportionate thick legs, disproportionate thick legs{, skindentation|}{, undersized clothes|}{, deep skin|}{, tight clothes|}{, taut clothes|}{, impossible clothes|}{, torn clothes|||}::",
+          "1.5::disproportionate huge ass, excessive huge ass, skindentation{, undersized clothes|}{, taut clothes|}{, tight clothes|}{, impossible clothes|}{, deep skin||}{, torn clothes|||}::",
+          "1.5::oppai loli, loli body with large breasts{, cleavage, collarbone||}{, undersized clothes|}{, tight clothes|}{, taut clothes|}{, impossible clothes|}{, torn clothes|||}::"
+        ],
+        "legs": "1.5::disproportionate thick calves, excessive thick calves, disproportionate thick legs, disproportionate thick legs, skindentation::, 1.5::{, soles|, shoe soles||}{, socks|, kneehighs|, over-kneehighs|, thighhighs|, pantyhose|, no legwear|}::",
+        "legspose": [
+          "standing, __emo__",
+          "sitting, __emo__",
+          "lying, __emo__",
+          "lying, sleeping{, pajamas|}",
+          "grabbing own legs, __emo__",
+          "adjusting clothes",
+          "posing",
+          "hot",
+          "sitting, crossed legs, __emo__",
+          "stomping on a viewer, __emo__",
+          "holding shoes, __emo__",
+          "squatting, __emo__",
+          "holding sock, __emo__",
+          "seiza, __emo__",
+          "sitting, hugging own legs, __emo__",
+          "warisa, __emo__"
+        ],
+        "num": "1girl"
+      }
+    }
+  ],
+  "common": {
+    "num": "1girl",
+    "pose": [
+      "standing, __emo__",
+      "sitting, __emo__",
+      "lying, __emo__",
+      "lying, sleeping{, pajamas|}",
+      "grabbing own brests, breasts press, __emo__",
+      "breasts squeezed together, breasts press, __emo__",
+      "breast lift, too heavy breasts, __emo__",
+      "adjusting clothes",
+      "posing",
+      "dancing",
+      "1.5::excessive lactation, lactation through clothes::, clenched teeth, rolling eyes, orgasm, covered nipples",
+      "hot",
+      "looking another",
+      "changing clothes, looking away, peeking, dutch angle"
+    ],
+    "body": [
+      "1.5::bouncing breasts, unaligned breasts, skindentation::, cleavage, 1.5::oppai loli, disproportionate gigantic breasts, excessive bursing breasts, excessive overflowing breasts, alternate breast size, undersized clothes, excessive inflated breasts, inconvenient breasts, overflowing breasts, bursting breasts{, deep skin|}::",
+      "1.5::disproportionate thick calves, excessive thick calves, disproportionate thick legs, disproportionate thick legs, skindentation, undersized clothes, deep skin::",
+      "1.0::disproportionate huge ass, excessive huge ass, skindentation::",
+      "1.5::bouncing breasts, unaligned breasts, skindentation::, cleavage, 1.5::oppai loli, disproportionate gigantic breasts, excessive bursing breasts, excessive overflowing breasts, alternate breast size, undersized clothes, excessive inflated breasts, inconvenient breasts, overflowing breasts, bursting breasts, deep skin, disproportionate thick calves, excessive thick calves, disproportionate thick legs, disproportionate thick legs::",
+      "1.5::bouncing breasts, unaligned breasts, skindentation::, cleavage, 1.5::oppai loli, disproportionate gigantic breasts, excessive bursing breasts, excessive overflowing breasts, alternate breast size, undersized clothes, excessive inflated breasts, inconvenient breasts, overflowing breasts, bursting breasts{, deep skin|}::",
+      "1.5::oppai loli, disproportionate gigantic breasts, alternate breast size, undersized clothes, inconvenient breasts{, skindentation|}{, undersized clothes|}{, deep skin|}{, taut clothes|}{, impossible clothes|}{, deep skin|}{, bouncing breasts, unaligned breasts|}::",
+      "1.5::disproportionate thick calves, excessive thick calves, disproportionate thick legs, disproportionate thick legs{, skindentation|}{, undersized clothes|}{, deep skin|}{, taut clothes|}{, impossible clothes|}::",
+      "1.5::disproportionate huge ass, excessive huge ass, skindentation{, undersized clothes|}{, taut clothes|}{, impossible clothes|}{, deep skin|}::",
+      "1.5::bouncing breasts, unaligned breasts, skindentation::, cleavage, 1.5::oppai loli, disproportionate gigantic breasts, excessive bursing breasts, excessive overflowing breasts, alternate breast size, undersized clothes, excessive inflated breasts, inconvenient breasts, overflowing breasts, bursting breasts{, deep skin|}, disproportionate thick calves, excessive thick calves, disproportionate thick legs, disproportionate thick legs::",
+      "1.5::oppai loli, loli body with large breasts{, undersized clothes|}{, taut clothes|}{, impossible clothes|}::",
+      "1.5::oppai loli, loli, child, aged down{|, toddlercon}, tiny loli body with disproportionate huge breasts{, impossible clothes|}{, bursting breasts, overflowing breasts|}{, undersized clothes|}, deformed breasts, very soft breasts{, alternate breast size, breast expansion|}::{, cleavage, collarbone|}{, randoseru|}",
+      "1.5::oppai loli, loli body with disproportionate gigantic breasts, very soft breasts, sagging breasts, long breasts{, long cleavage, bursting breasts, overflowing breasts|}{, undersized clothes|}{, taut clothes|}{, impossible clothes|}{, deep skin|}::",
+      "1.5::oppai loli, breast expansion, alternate breast size{, small breasts and disproportionate gigantic breasts|}{, bursting breasts, overflowing breasts|}{, undersized clothes|}{, taut clothes|}{, impossible clothes|}::"
+    ]
+  }
+}

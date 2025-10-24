@@ -1,0 +1,31 @@
+{
+  "state": {
+    "selectedTemplate": "1girl",
+    "mainPromptTemplate": "solo, [member_common:num], __artist|1..5|__, high quality, best quality, very aesthetic, absurdres, year 2025,  indoors, sound effects",
+    "characterPromptTemplate": "[member_common:sex], girl, 1.5::[group_unique:name], usual clothes::, 1.5::breast expansion, alternate breast size::, 1.5::small breasts and disproportionate gigantic breasts::, 1.5::{undressing|dressing|adjusting clothes}, {, excessive tiny bra|, undersized clothes}{, bouncing breasts, unaligned breasts|}{, struggling|}{, bursting breasts, overflowing breasts}, 1.75::peeking, looking away, dutch angle, wide view::, 1.0::sweat, blush, heavy breathing, steaming body::, shiny skin",
+    "mainNegativePromptTemplate": "nsfw, lowres, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, extra digits, error, worst quality, low quality, normal quality, jpeg artifacts, artist logo, artist name, signature",
+    "characterNegativePromptTemplate": "bad quality, milf, mature female, tall female, nude, naked, nipples, 1.5::alternate costume, alternate hairstyle, aged up, panties, bikini, underwear, looking at viewer::"
+  },
+  "formValues": {
+    "prompt": "solo, 1girl, artist:ciloranko, artist:haoro, artist:magister, high quality, best quality, very aesthetic, absurdres, year 2025, indoors, sound effects",
+    "negativePrompt": "nsfw, lowres, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, extra digits, error, worst quality, low quality, normal quality, jpeg artifacts, artist logo, artist name, signature",
+    "width": 704,
+    "height": 1472,
+    "steps": 28,
+    "scale": 5,
+    "cfgRescale": 0.5,
+    "seed": null,
+    "sampler": "k_euler_ancestral",
+    "model": "nai-diffusion-4-5-full",
+    "customModel": "",
+    "characters": [
+      {
+        "caption": "girl, girl, 1.5::kuchiki rukia, bleach, usual clothes::, 1.5::breast expansion, alternate breast size::, 1.5::small breasts and disproportionate gigantic breasts::, 1.5::undressing, undersized clothes, struggling, bursting breasts, overflowing breasts, 1.75::peeking, looking away, dutch angle, wide view::, 1.0::sweat, blush, heavy breathing, steaming body::, shiny skin",
+        "negativeCaption": "bad quality, milf, mature female, tall female, nude, naked, nipples, 1.5::alternate costume, alternate hairstyle, aged up, panties, bikini, underwear, looking at viewer::",
+        "x": 0.5,
+        "y": 0.5
+      }
+    ],
+    "useCoords": false
+  }
+}

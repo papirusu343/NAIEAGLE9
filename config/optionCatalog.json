@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "slots": {
+    "clothes": {
+      "options": [
+        { "value": "pajamas",       "tags": ["sleepwear", "indoor"],     "weight": 1 },
+        { "value": "idol_costume",  "tags": ["stage", "idol"],           "weight": 1 },
+        { "value": "casual",        "tags": ["casual", "everyday"],      "weight": 1 },
+        { "value": "kimono",        "tags": ["和風", "traditional"],     "weight": 1 }
+      ]
+    },
+    "location": {
+      "options": [
+        { "value": "bedroom", "tags": ["indoor", "sleep"],        "weight": 1 },
+        { "value": "futon",   "tags": ["indoor", "sleep", "和風"], "weight": 1 },
+        { "value": "stage",   "tags": ["stage", "public"],        "weight": 1 },
+        { "value": "street",  "tags": ["outdoor", "casual"],      "weight": 1 }
+      ]
+    },
+    "emo": {
+      "options": [
+        { "value": "眠る", "tags": ["sleep"], "weight": 1 },
+        { "value": "笑顔", "tags": ["happy"], "weight": 1 },
+        { "value": "通常", "tags": [],        "weight": 1 }
+      ]
+    },
+    "pose": {
+      "options": [
+        { "value": "standing",    "tags": [],         "weight": 1 },
+        { "value": "peace sign",  "tags": ["idol"],   "weight": 1 },
+        { "value": "sitting",     "tags": ["relax"],  "weight": 1 }
+      ]
+    },
+    "bodytype": {
+      "options": [
+        { "value": "slim",  "tags": [], "weight": 1 },
+        { "value": "curvy", "tags": [], "weight": 1 }
+      ]
+    },
+    "outfit": {
+      "options": [
+        { "value": "school_uniform", "tags": ["uniform", "youth"],    "weight": 1 },
+        { "value": "casual_wear",    "tags": ["casual", "everyday"],  "weight": 1 },
+        { "value": "idol_stage",     "tags": ["idol", "stage"],       "weight": 1 },
+        { "value": "kimono_style",   "tags": ["和風", "traditional"], "weight": 1 },
+        { "value": "swimsuit",       "tags": ["summer", "beach"],     "weight": 1 }
+      ]
+    },
+    "artist": {
+      "options": [
+        { "value": "soft_anime_style",   "tags": ["soft", "anime"],      "weight": 1 },
+        { "value": "vibrant_pop_style",  "tags": ["vibrant", "pop"],     "weight": 1 },
+        { "value": "traditional_ink",    "tags": ["和風", "traditional"], "weight": 1 }
+      ]
+    }
+  }
+}

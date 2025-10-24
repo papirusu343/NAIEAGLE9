@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-gray-900 text-gray-100 min-h-screen;
+}
+
+/* PWA/モバイル最適化: ビューポート単位の最適化（URLバーの高さ変動に対応） */
+body {
+  min-height: 100vh;
+}
+@supports (height: 100svh) {
+  body {
+    min-height: 100svh;
+  }
+}
+@supports (height: 100dvh) {
+  body {
+    min-height: 100dvh;
+  }
+}
+
+/* 安全領域（ノッチ/ホームバー）対応ユーティリティ */
+:root {
+  --safe-area-inset-bottom: env(safe-area-inset-bottom, 0px);
+}
+.safe-area-bottom {
+  padding-bottom: var(--safe-area-inset-bottom);
+}
+
+@layer components {
+  .card {
+    @apply bg-gray-800 border border-gray-700 rounded-lg p-4;
+  }
+  
+  .input {
+    @apply bg-gray-800 border border-gray-700 rounded px-3 py-2 text-gray-100 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent;
+  }
+  
+  .button {
+    @apply px-4 py-2 rounded font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-900;
+  }
+  
+  .button-primary {
+    @apply button bg-blue-600 hover:bg-blue-700 text-white focus:ring-blue-500;
+  }
+  
+  .button-secondary {
+    @apply button bg-gray-800 hover:bg-gray-700 text-gray-100 border border-gray-700 focus:ring-gray-500;
+  }
+  
+  .select {
+    @apply input cursor-pointer;
+  }
+  
+  .textarea {
+    @apply input resize-y min-h-[100px];
+  }
+  
+  .grid-images {
+    @apply grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4;
+  }
+}
+
+/* スクロールバーのスタイリング */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-800;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-600 rounded hover:bg-gray-500;
+}

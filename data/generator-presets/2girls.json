@@ -1,0 +1,37 @@
+{
+  "state": {
+    "selectedTemplate": "2girls",
+    "mainPromptTemplate": "[member_common:num], __artist|1..5|__, high quality, best quality, very aesthetic, absurdres, year 2025, indoors, shadow, dark, sound effects",
+    "characterPromptTemplate": "[member_common:sex], 1.5::[group_unique:name], usual clothes::, [common:pose], 1.0::sweat, blush, heavy breathing, steaming body::, shiny skin, [common:body]",
+    "mainNegativePromptTemplate": "nsfw, lowres, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, extra digits, error, worst quality, low quality, normal quality, jpeg artifacts, artist logo, artist name, signature, ",
+    "characterNegativePromptTemplate": "bad quality, milf, mature female, tall female, nude, naked, nipples, 1.5::alternate costume, alternate hairstyle, aged up, panties, bikini, underwear::"
+  },
+  "formValues": {
+    "prompt": "artist:motsuaki, artist:yamaori, artist:wagashi (dagashiya), high quality, best quality, very aesthetic, absurdres, year 2025, indoors, shadow, dark, sound effects",
+    "negativePrompt": "nsfw, lowres, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, extra digits, error, worst quality, low quality, normal quality, jpeg artifacts, artist logo, artist name, signature",
+    "width": 704,
+    "height": 1472,
+    "steps": 28,
+    "scale": 5,
+    "cfgRescale": 0.5,
+    "seed": null,
+    "sampler": "k_euler_ancestral",
+    "model": "nai-diffusion-4-5-full",
+    "customModel": "",
+    "characters": [
+      {
+        "caption": "girl, 1.5::marie (splatoon), splatoon (series), usual clothes::, 1.0::sweat, blush, heavy breathing, steaming body::, shiny skin, 1.5::disproportionate thick calves, excessive thick calves, disproportionate thick legs, disproportionate thick legs, skindentation, undersized clothes, deep skin, tight clothes, taut clothes::",
+        "negativeCaption": "bad quality, milf, mature female, tall female, nude, naked, nipples, 1.5::alternate costume, alternate hairstyle, aged up, panties, bikini, underwear::",
+        "x": 0.5,
+        "y": 0.5
+      },
+      {
+        "caption": "girl, 1.5::callie (splatoon), splatoon (series), usual clothes::, 1.0::sweat, blush, heavy breathing, steaming body::, shiny skin, 1.5::disproportionate thick calves, excessive thick calves, disproportionate thick legs, disproportionate thick legs, skindentation::",
+        "negativeCaption": "bad quality, milf, mature female, tall female, nude, naked, nipples, 1.5::alternate costume, alternate hairstyle, aged up, panties, bikini, underwear::",
+        "x": 0.5,
+        "y": 0.5
+      }
+    ],
+    "useCoords": false
+  }
+}

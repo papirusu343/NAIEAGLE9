@@ -1,0 +1,31 @@
+{
+  "state": {
+    "selectedTemplate": "1girl",
+    "mainPromptTemplate": "solo, [member_common:num], __artist|1..5|__, high quality, best quality, very aesthetic, absurdres, year 2025,  indoors{, 2koma|}{, comic|}{, before and after|}{, day and night|}, sound effects",
+    "characterPromptTemplate": "[member_common:sex], 1.5::[group_unique:name], usual clothes::, __BESITUATION__, 1.0::sweat, blush, heavy breathing, steaming body::, shiny skin",
+    "mainNegativePromptTemplate": "nsfw, lowres, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, extra digits, error, worst quality, low quality, normal quality, jpeg artifacts, artist logo, artist name, signature, monochrome, greyscale",
+    "characterNegativePromptTemplate": "bad quality, milf, mature female, tall female, nude, naked, nipples, 1.5::alternate costume, alternate hairstyle, aged up, panties, bikini, underwear::"
+  },
+  "formValues": {
+    "prompt": "solo, 1girl, artist:hanauna, artist:cutesexyrobutts, artist:yoneyama mai, high quality, best quality, very aesthetic, absurdres, year 2025, indoors, 2koma, comic, before and after, sound effects",
+    "negativePrompt": "nsfw, lowres, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, extra digits, error, worst quality, low quality, normal quality, jpeg artifacts, artist logo, artist name, signature",
+    "width": 704,
+    "height": 1472,
+    "steps": 28,
+    "scale": 5,
+    "cfgRescale": 0.5,
+    "seed": null,
+    "sampler": "k_euler_ancestral",
+    "model": "nai-diffusion-4-5-full",
+    "customModel": "",
+    "characters": [
+      {
+        "caption": "girl, 1.5::ulti (one piece), one piece, usual clothes::, 1.5::breast expansion, alternate breast size::, naughty smile, seductive smile, 1.5::small breasts and disproportionate gigantic breasts::, bursting breasts, overflowing breasts, cleavage, bouncing breasts, unaligned breasts::, 1.0::sweat, blush, heavy breathing, steaming body::, shiny skin",
+        "negativeCaption": "bad quality, milf, mature female, tall female, nude, naked, nipples, 1.5::alternate costume, alternate hairstyle, aged up, panties, bikini, underwear::",
+        "x": 0.5,
+        "y": 0.5
+      }
+    ],
+    "useCoords": false
+  }
+}

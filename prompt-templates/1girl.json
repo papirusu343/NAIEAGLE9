@@ -1,0 +1,570 @@
+{
+  "series": "1girl",
+  "groups": [
+    {
+      "member_count": 1,
+      "common": {
+        "num": "solo, 1girl"
+      },
+      "group_unique": {
+        "member01": {
+          "name": "ibara mayaka, hyouka"
+        },
+        "member02": {
+          "name": "chotanda eru, hyouka"
+        },
+        "member03": {
+          "name": "kugisaki nobara, jujutsu kaisen"
+        },
+        "member04": {
+          "name": "harukaze doremi, ojamajo doremi"
+        },
+        "member05": {
+          "name": "segawa onpu, ojamajo doremi"
+        },
+        "member06": {
+          "name": "kohaku (dr. stone), dr. stone"
+        },
+        "member07": {
+          "name": "kagura (gintama), gintama"
+        },
+        "member08": {
+          "name": "sugar (one piece), one piece"
+        },
+        "member09": {
+          "name": "perona, one piece"
+        },
+        "member10": {
+          "name": "ulti (one piece), one piece"
+        },
+        "member11": {
+          "name": "charlotta (granblue fantasy), granblue fantasy"
+        },
+        "member12": {
+          "name": "yaia (granblue fantasy), granblue fantasy"
+        },
+        "member13": {
+          "name": "tasogare mimi, duel masters"
+        },
+        "member14": {
+          "name": "hinata natsumi, keroro gunsou"
+        },
+        "member15": {
+          "name": "inuyama mana, gegege no kitarou"
+        },
+        "member16": {
+          "name": "misogi (princess connect!), princess connect!"
+        },
+        "member17": {
+          "name": "mabel pines, gravity falls"
+        },
+        "member18": {
+          "name": "pacifica northwest, gravity falls"
+        },
+        "member19": {
+          "name": "vanellope von schweetz, wreck-it ralph"
+        },
+        "member20": {
+          "name": "taneshima popura, working!!"
+        },
+        "member21": {
+          "name": "inami mahiru, working!!"
+        },
+        "member22": {
+          "name": "yamada aoi, working!!"
+        },
+        "member23": {
+          "name": "paul bunyan (fate), fate (series)"
+        },
+        "member24": {
+          "name": "gareth (fate), fate (series)"
+        },
+        "member25": {
+          "name": "jack the ripper (fate/apocrypha), fate (series)"
+        },
+        "member26": {
+          "name": "passionlip (fate), fate (series)"
+        },
+        "member27": {
+          "name": "aioi yuuko, nichijou"
+        },
+        "member28": {
+          "name": "naganohara mio, nichijou"
+        },
+        "member29": {
+          "name": "oribe yasuna, kill me baby"
+        },
+        "member30": {
+          "name": "sonya (kill me baby), kill me baby"
+        },
+        "member31": {
+          "name": "star butterfly, star vs the forces of evil"
+        },
+        "member32": {
+          "name": "jackie lynn thomas, star vs the forces of evil"
+        },
+        "member33": {
+          "name": "asuka (senran kagura), senran kagura"
+        },
+        "member34": {
+          "name": "hibari (senran kagura), senran kagura"
+        },
+        "member35": {
+          "name": "katsuragi (senran kagura), senran kagura"
+        },
+        "member36": {
+          "name": "narusawa ryouka occultic;nine"
+        },
+        "member37": {
+          "name": [
+            "dark magician girl, yu-gi-oh!",
+            "toon dark magician girl, yu-gi-oh!"
+          ]
+        },
+        "member38": {
+          "name": "mazaki anzu, yu-gi-oh!"
+        },
+        "member39": {
+          "name": "luca (yu-gi-oh!), yu-gi-oh!"
+        },
+        "member40": {
+          "name": "mizuki kotori (yu-gi-oh!), yu-gi-oh!"
+        },
+        "member41": {
+          "name": "kouzuki anna, yu-gi-oh!"
+        },
+        "member42": {
+          "name": "suo sango{| (1st costume)}, virtual youtuber"
+        },
+        "member43": {
+          "name": "todoroki hajime{| (1st costume)}, virtual youtuber"
+        },
+        "member44": {
+          "name": "sukoya kana{| (1st costume)}, virtual yutuber"
+        },
+        "member45": {
+          "name": "suzuhara lulu{| (1st costume)}, virtual yutuber"
+        },
+        "member46": {
+          "name": [
+            "shigure ui (vtuber), virtual yutuber",
+            "shigure ui (vtuber) (young), virtual yutuber"
+          ]
+        },
+        "member47": {
+          "name": "wednesday addams, addams family"
+        },
+        "member48": {
+          "name": "hermione granger, harry potter (series)"
+        },
+        "member49": {
+          "name": "asahina aoi, danganronpa (series)"
+        },
+        "member50": {
+          "name": "nanami chiaki, danganronpa (series)"
+        },
+        "member51": {
+          "name": "anya (spy x family), spy x family"
+        },
+        "member52": {
+          "name": "becky blackbell, spy x family"
+        },
+        "member53": {
+          "name": "maya fey, ace attorney"
+        },
+        "member54": {
+          "name": "pearl fey, ace attorney"
+        },
+        "member55": {
+          "name": "susato mikotoba, the great ace attorney"
+        },
+        "member56": {
+          "name": "iris wilson, the great ace attorney"
+        },
+        "member57": {
+          "name": "gina lestrade, the great ace attorney"
+        },
+        "member58": {
+          "name": "maria gorey, the great ace attorney"
+        },
+        "member59": {
+          "name": "oozora subaru{| (1st costume)}, virtual youtuber"
+        },
+        "member60": {
+          "name": "takane lui{| (1st costume)}, virtual youtuber"
+        },
+        "member61": {
+          "name": "illyasviel von einzbern, fate (series)"
+        },
+        "member62": {
+          "name": "chloe von einzbern, fate (series)"
+        },
+        "member63": {
+          "name": "hyakumantenbara salome{| (1st costume)}, virtual youtuber"
+        },
+        "member65": {
+          "name": "ouro kronii{| (1st costume)}, virtual youtuber"
+        },
+        "member66": {
+          "name": "kuroki tomoko, watashi ga motenai no wa dou kangaetemo omaera ga warui!"
+        },
+        "member67": {
+          "name": "kuchiki rukia, bleach"
+        },
+        "member68": {
+          "name": "sarugaki hiyori, bleach"
+        },
+        "member69": {
+          "name": "gotoh hitori, bocchi the rock!"
+        },
+        "member70": {
+          "name": "ijichi nijika, bocchi the rock!"
+        },
+        "member71": {
+          "name": "kita ikuyo, bocchi the rock!"
+        },
+        "member72": {
+          "name": "hiroi kikuri, bocchi the rock!"
+        },
+        "member73": {
+          "name": "gotoh futari, bocchi the rock!"
+        },
+        "member74": {
+          "name": "angol mois, keroro gunsou"
+        },
+        "member75": {
+          "name": "tachikawa mimi, digimon adventure"
+        },
+        "member76": {
+          "name": "yagami hikari, digimon adventure"
+        },
+        "member77": {
+          "name": "makino ruki, digimon tamers"
+        },
+        "member78": {
+          "name": "nishikino maki, love live!"
+        },
+        "member79": {
+          "name": "tang keke, love live!"
+        },
+        "member80": {
+          "name": "megumin, kono subarashii sekai ni shukufuku wo!"
+        },
+        "member81": {
+          "name": "aqua (konosuba), kono subarashii sekai ni shukufuku wo!"
+        },
+        "member82": {
+          "name": "tsukino mito{| (1st costume)}, virtual youtuber"
+        },
+        "member83": {
+          "name": "higuchi kaede{| (1st costume)}, virtual youtuber"
+        },
+        "member84": {
+          "name": "misaka mikoto, toaru kagaku no railgun"
+        },
+        "member85": {
+          "name": "shokuhou misaki, toaru kagaku no railgun"
+        },
+        "member86": {
+          "name": "shirai kuroko, toaru kagaku no railgun"
+        },
+        "member87": {
+          "name": "tatsumaki, one-punch man"
+        },
+        "member88": {
+          "name": "la brava, my hero academia"
+        },
+        "member89": {
+          "name": "uraraka ochaco, my hero academia"
+        },
+        "member90": {
+          "name": "asui tsuyu, my hero academia"
+        },
+        "member91": {
+          "name": "yaoyorozu momo, my hero academia"
+        },
+        "member92": {
+          "name": "komori kinoko, my hero academia"
+        },
+        "member93": {
+          "name": "fionna campbell, adventure time"
+        },
+        "member94": {
+          "name": "chouzetsusaikawa tenshi-chan, needy girl overdose"
+        },
+        "member95": {
+          "name": "ame-chan (needy girl overdose), needy girl overdose"
+        },
+        "member96": {
+          "name": "biscuit krueger, hunter x hunter"
+        },
+        "member97": {
+          "name": "neferpitou, hunter x hunter"
+        },
+        "member98": {
+          "name": "is (kamen rider 01), kamen rider 01 (series)"
+        },
+        "member99": {
+          "name": "maomao (kusuriya no hitorigoto), kusuriya no hitorigoto"
+        },
+        "member100": {
+          "name": "amate yuzuriha, gundam gquuuuuux"
+        },
+        "member101": {
+          "name": "nyaan (gundam gquuuuuux), gundam gquuuuuux"
+        },
+        "member102": {
+          "name": "chun-li, street fighter"
+        },
+        "member103": {
+          "name": "han juri, street fighter"
+        },
+        "member104": {
+          "name": "kirigaya suguha, sword art online"
+        },
+        "member105": {
+          "name": "oogami marina, bakusou kyoudai let's & go!!"
+        },
+        "member106": {
+          "name": "tatsuno malm, dinosaur king"
+        },
+        "member107": {
+          "name": "kagamine rin, vocaloid"
+        },
+        "member108": {
+          "name": "hatsune miku, vocaloid"
+        },
+        "member109": {
+          "name": "yuzuki yukari, voiceroid"
+        },
+        "member110": {
+          "name": "touhoku kiritan, voiceroid"
+        },
+        "member111": {
+          "name": "tifa lockhart, final fantasy vii"
+        },
+        "member112": {
+          "name": "yuffie kisaragi, final fantasy vii"
+        },
+        "member113": {
+          "name": "kinomoto sakura, cardcaptor sakura"
+        },
+        "member114": {
+          "name": "kodama fumika, youkai watch"
+        },
+        "member115": {
+          "name": "misora inaho, youkai watch"
+        },
+        "member116": {
+          "name": "spider-gwen, spider-verse"
+        },
+        "member117": {
+          "name": "peni parker, spider-verse"
+        },
+        "member118": {
+          "name": "arle nadja, puyopuyo"
+        },
+        "member119": {
+          "name": "andou ringo, puyopuyo"
+        },
+        "member120": {
+          "name": "gwen tennyson, ben 10,"
+        },
+        "member121": {
+          "name": "alena (dq4), dragon quest iv"
+        },
+        "member122": {
+          "name": "priest (dq3), dragon quest iii"
+        },
+        "member123": {
+          "name": "sage (dq3), dragon quest iii"
+        },
+        "member124": {
+          "name": "martial artist (dq3), dragon quest iii"
+        },
+        "member125": {
+          "name": "gadabout (dq3), dragon quest iii"
+        },
+        "member126": {
+          "name": "mage (dq3), dragon quest iii"
+        },
+        "member127": {
+          "name": "kazama iroha, virtual youtuber{|, kazama iroha (1st costume)}"
+        },
+        "member128": {
+          "name": "la+ darknesss, virtual youtuber{|, la+ darknesss (1st costume)}"
+        },
+        "member129": {
+          "name": "haibara ai, meitantei conan"
+        },
+        "member130": {
+          "name": "yoshida ayumi, meitantei conan"
+        },
+        "member131": {
+          "name": "veronica (dq11), dragon quest xi"
+        },
+        "member132": {
+          "name": "hero's daughter (dq5), dragon quest v"
+        },
+        "member133": {
+          "name": "maribel (dq7), dragon quest vii"
+        },
+        "member137": {
+          "name": "callie (splatoon), splatoon 1"
+        },
+        "member138": {
+          "name": "marie (splatoon), splatoon 1"
+        },
+        "member136": {
+          "name": "marina (splatoon), splatoon 2"
+        },
+        "member139": {
+          "name": "pearl (splatoon), splatoon 2"
+        },
+        "member135": {
+          "name": "frye (splatoon), splatoon 3"
+        },
+        "member134": {
+          "name": "shiver (splatoon), splatoon 3"
+        },
+        "member140": {
+          "name": "ogino chihiro, sen to chihiro no kamikakushi"
+        },
+        "member141": {
+          "name": "bianca (dq5), dragon quest v"
+        },
+        "member142": {
+          "name": "deborah (dq5), dragon quest v"
+        },
+        "member143": {
+          "name": "sandy (dq9), dragon quest ix"
+        },
+        "member147": {
+          "name": [
+            "misumi nagisa, futari wa precure",
+            "cure black, futari wa precure"
+          ]
+        },
+        "member146": {
+          "name": "hoshizora miyuki, smile precure!"
+        },
+        "member144": {
+          "name": "midorikawa nao, smile precure!"
+        },
+        "member145": {
+          "name": "kise yayoi, smile precure!"
+        },
+        "member148": {
+          "name": "sasaki saku, virtual youtuber"
+        },
+        "member149": {
+          "name": "shiina yuika, virtual youtuber"
+        },
+        "member150": {
+          "name": "fujiwara chika, kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~"
+        },
+        "member151": {
+          "name": "diamond queen, kaitou joker"
+        },
+        "member152": {
+          "name": "yuitsuka inori, medalist (manga)"
+        },
+        "member153": {
+          "name": "miketa ryouka, medalist (manga)"
+        },
+        "member154": {
+          "name": "kotoishi naru, barakamon"
+        },
+        "member155": {
+          "name": "kuze shizuka, takopii no genzai"
+        },
+        "member156": {
+          "name": "kirarazaka marina, takopii no genzai"
+        },
+        "member157": {
+          "name": "kyomoto (look back), look back"
+        },
+        "member158": {
+          "name": "miyamizu mitsuha, kimi no na wa."
+        },
+        "member159": {
+          "name": "miyamizu yotsuha, kimi no na wa."
+        },
+        "member160": {
+          "name": [
+            "marui hitoha, mitsudomoe (manga)",
+            "marui futaba, mitsudomoe (manga)",
+            "marui mitsuba, mitsudomoe (manga)"
+          ]
+        },
+        "member161": {
+          "name": [
+            "puniru (puniru wa kawaii slime), puniru wa kawaii slime",
+            "okanega alice, puniru wa kawaii slime"
+          ]
+        },
+        "member162": {
+          "name": "kaneda mochiko, mount celeb kaneda-san"
+        },
+        "member163": {
+          "name": "lily hawk, street fighter"
+        }
+      },
+      "member_common": {
+        "sex": "girl",
+        "pose": [
+          "standing, __emo__",
+          "sitting, __emo__",
+          "lying, __emo__",
+          "lying, sleeping{, pajamas|}",
+          "grabbing own brests, breasts press, __emo__",
+          "breasts squeezed together, breasts press, __emo__",
+          "breast lift, too heavy breasts, __emo__",
+          "adjusting clothes",
+          "posing",
+          "dancing",
+          "1.5::excessive lactation, lactation through clothes::, clenched teeth, rolling eyes, orgasm, covered nipples",
+          "running",
+          "hot",
+          "grabbing own legs"
+        ],
+        "body": [
+          "1.5::bouncing breasts, unaligned breasts, skindentation::, cleavage, 1.5::oppai loli, disproportionate gigantic breasts, excessive bursing breasts, excessive overflowing breasts, alternate breast size, undersized clothes, excessive inflated breasts, inconvenient breasts, overflowing breasts, bursting breasts{, deep skin|}::",
+          "1.5::oppai loli, disproportionate gigantic breasts, alternate breast size, undersized clothes, inconvenient breasts{, skindentation|}{, undersized clothes|}{, deep skin|}{, tight clothes|}{, taut clothes|}{, impossible clothes|}{, deep skin|}{, bouncing breasts, unaligned breasts|}::",
+          "1.5::disproportionate thick calves, excessive thick calves, disproportionate thick legs, disproportionate thick legs{, skindentation|}{, undersized clothes|}{, deep skin|}{, tight clothes|}{, taut clothes|}{, impossible clothes|}::",
+          "1.5::disproportionate huge ass, excessive huge ass, skindentation{, undersized clothes|}{, taut clothes|}{, tight clothes|}{, impossible clothes|}{, deep skin|}::",
+          "1.5::bouncing breasts, unaligned breasts, skindentation::, cleavage, 1.5::oppai loli, disproportionate gigantic breasts, excessive bursing breasts, excessive overflowing breasts, alternate breast size, undersized clothes, excessive inflated breasts, inconvenient breasts, overflowing breasts, bursting breasts{, deep skin|}, disproportionate thick calves, excessive thick calves, disproportionate thick legs, disproportionate thick legs::",
+          "1.5::oppai loli, loli body with large breasts{, undersized clothes|}{, tight clothes|}{, taut clothes|}{, impossible clothes|}::"
+        ],
+        "num": "1girl"
+      }
+    }
+  ],
+  "common": {
+    "num": "1girl",
+    "pose": [
+      "standing, __emo__",
+      "sitting, __emo__",
+      "lying, __emo__",
+      "lying, sleeping{, pajamas|}",
+      "grabbing own brests, breasts press, __emo__",
+      "breasts squeezed together, breasts press, __emo__",
+      "breast lift, too heavy breasts, __emo__",
+      "adjusting clothes",
+      "posing",
+      "dancing",
+      "1.5::excessive lactation, lactation through clothes::, clenched teeth, rolling eyes, orgasm, covered nipples",
+      "running",
+      "hot",
+      "grabbing own legs"
+    ],
+    "body": [
+      "1.5::bouncing breasts, unaligned breasts, skindentation::, cleavage, 1.5::oppai loli, disproportionate gigantic breasts, excessive bursing breasts, excessive overflowing breasts, alternate breast size, undersized clothes, excessive inflated breasts, inconvenient breasts, overflowing breasts, bursting breasts{, deep skin|}::",
+      "1.5::oppai loli, disproportionate gigantic breasts, alternate breast size, undersized clothes, inconvenient breasts{, skindentation|}{, undersized clothes|}{, deep skin|}{, tight clothes|}{, taut clothes|}{, impossible clothes|}{, deep skin|}{, bouncing breasts, unaligned breasts|}::",
+      "1.5::disproportionate thick calves, excessive thick calves, disproportionate thick legs, disproportionate thick legs{, skindentation|}{, undersized clothes|}{, deep skin|}{, tight clothes|}{, taut clothes|}{, impossible clothes|}::",
+      "1.5::disproportionate gigantic ass, excessive gigantic ass, skindentation{, undersized clothes|}{, taut clothes|}{, tight clothes|}{, impossible clothes|}{, deep skin|}::",
+      "1.5::bouncing breasts, unaligned breasts, skindentation::, cleavage, 1.5::oppai loli, disproportionate gigantic breasts, excessive bursing breasts, excessive overflowing breasts, alternate breast size, undersized clothes, excessive inflated breasts, inconvenient breasts, overflowing breasts, bursting breasts{, deep skin|}, disproportionate thick calves, excessive thick calves, disproportionate thick legs, disproportionate thick legs::",
+      "1.5::oppai loli, loli body with large breasts{, undersized clothes|}{, tight clothes|}{, taut clothes|}{, impossible clothes|}::"
+    ]
+  }
+}

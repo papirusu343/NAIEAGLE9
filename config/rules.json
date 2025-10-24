@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "scopes": {
+    "clothes": "auto",
+    "location": "auto",
+    "emo": "auto",
+    "pose": "auto",
+    "bodytype": "auto",
+    "outfit": "auto",
+    "artist": "auto"
+  },
+  "mergePolicy": {
+    "default": "consensus"
+  },
+  "engineSettings": {
+    "preferBoost": 2.0
+  },
+  "forbids": [
+    {
+      "if": { "member": { "tags_any": ["space"] } },
+      "slot": "clothes",
+      "by_option_tags_any": ["sleepwear"]
+    }
+  ],
+  "overrides": [
+    {
+      "priority": 20,
+      "lock": true,
+      "if": {
+        "slot": { "clothes": "pajamas" },
+        "member": { "tags_any": ["和風"] }
+      },
+      "set_from_option_tags": {
+        "location": ["sleep", "和風"]
+      }
+    },
+    {
+      "priority": 15,
+      "if": {
+        "slot": { "clothes": "pajamas" }
+      },
+      "restrict_option_tags": {
+        "location": ["sleep"]
+      },
+      "set": { "emo": "眠る" }
+    },
+    {
+      "priority": 12,
+      "if": {
+        "member": { "tags_any": ["アイドル"] }
+      },
+      "prefer_option_tags": {
+        "location": ["stage"],
+        "pose": ["idol"],
+        "outfit": ["idol", "stage"]
+      }
+    },
+    {
+      "priority": 10,
+      "if": {
+        "member": { "tags_any": ["和風"] }
+      },
+      "prefer_option_tags": {
+        "location": ["和風"],
+        "outfit": ["和風"],
+        "artist": ["和風", "traditional"]
+      }
+    }
+  ],
+  "defaults": {
+    "strategy": "random_from_all",
+    "targets": ["clothes", "location", "emo", "pose", "bodytype", "outfit", "artist"]
+  }
+}

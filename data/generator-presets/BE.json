@@ -1,0 +1,31 @@
+{
+  "state": {
+    "selectedTemplate": "idol",
+    "mainPromptTemplate": "[member_common:num], __artist|1..5|__, high quality, best quality, very aesthetic, absurdres, year 2025,  indoors{, 2koma|}{, before and after|}, sound effects",
+    "characterPromptTemplate": "[member_common:sex], 1.5::[group_unique:name], usual clothes::, 1.5::breast expansion, alternate breast size::, 1.0::sweat, blush, heavy breathing, steaming body::, shiny skin, __emo__, medium breasts and disproportionate gigantic breasts{, bursting breasts, overflowing breasts|}{, cleavage|}{, excessive lactation, covered nipples|||}{, bouncing breasts, unaligned breasts|}",
+    "mainNegativePromptTemplate": "nsfw, lowres, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, extra digits, error, worst quality, low quality, normal quality, jpeg artifacts, artist logo, artist name, signature",
+    "characterNegativePromptTemplate": "bad quality, milf, mature female, tall female, nude, naked, nipples, 1.5::alternate costume, alternate hairstyle, aged up, panties, bikini, underwear::"
+  },
+  "formValues": {
+    "prompt": "1girl, artist:chamchami, artist:cutesexyrobutts, high quality, best quality, very aesthetic, absurdres, year 2025, indoors, 2koma, before and after, sound effects",
+    "negativePrompt": "nsfw, lowres, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, extra digits, error, worst quality, low quality, normal quality, jpeg artifacts, artist logo, artist name, signature",
+    "width": 704,
+    "height": 1472,
+    "steps": 28,
+    "scale": 5,
+    "cfgRescale": 0.5,
+    "seed": null,
+    "sampler": "k_euler_ancestral",
+    "model": "nai-diffusion-4-5-full",
+    "customModel": "",
+    "characters": [
+      {
+        "caption": "girl, 1.5::jougasaki rika, idolmaster cinderella girls, usual clothes::, 1.5::breast expansion, alternate breast size::, 1.0::sweat, blush, heavy breathing, steaming body::, shiny skin, heart-shaped pupils, medium breasts and disproportionate gigantic breasts, bursting breasts, overflowing breasts, cleavage, excessive lactation, covered nipples, bouncing breasts, unaligned breasts",
+        "negativeCaption": "bad quality, milf, mature female, tall female, nude, naked, nipples, 1.5::alternate costume, alternate hairstyle, aged up, panties, bikini, underwear::",
+        "x": 0.5,
+        "y": 0.5
+      }
+    ],
+    "useCoords": false
+  }
+}
